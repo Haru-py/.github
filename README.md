@@ -1,2 +1,3 @@
-# .github
-The Python framework for web applications.
+# Haru
+
+Haru[ハル] is the Python framework for web applications.
